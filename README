@@ -1,0 +1,7 @@
+README
+
+Quicksorting is done by dividing an array into splitting branches with recursion, doing small comparisons, and deciding who needs to switch places in a micro-managey way. 
+
+This took me several days to learn and implement. In my opinion its difficulty level is higher than some sorting algorithms like bubble sort.
+
+Hope its useful.
